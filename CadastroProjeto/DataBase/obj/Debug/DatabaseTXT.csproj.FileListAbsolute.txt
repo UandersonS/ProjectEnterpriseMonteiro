@@ -1,0 +1,5 @@
+C:\Users\Uanderson\Desktop\CadastroProjeto\Database\bin\Debug\Database.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Database\bin\Debug\Database.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\Database\obj\Debug\DatabaseTXT.csprojAssemblyReference.cache
+C:\Users\Uanderson\Desktop\CadastroProjeto\Database\obj\Debug\Database.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Database\obj\Debug\Database.pdb

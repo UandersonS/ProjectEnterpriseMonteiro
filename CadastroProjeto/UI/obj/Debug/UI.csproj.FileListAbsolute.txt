@@ -1,0 +1,16 @@
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\TresCamadas.exe.config
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\TresCamadas.exe
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\TresCamadas.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\Business.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\Database.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\DatabaseSQL.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\Business.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\DatabaseSQL.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\bin\Debug\Database.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\TresCamadas.Form1.resources
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\TresCamadas.Properties.Resources.resources
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\TresCamadas.exe
+C:\Users\Uanderson\Desktop\CadastroProjeto\UI\obj\Debug\TresCamadas.pdb

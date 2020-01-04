@@ -1,0 +1,10 @@
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\Business.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\Business.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\Database.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\DatabaseSQL.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\DatabaseSQL.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\bin\Debug\Database.pdb
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\obj\Debug\Business.dll
+C:\Users\Uanderson\Desktop\CadastroProjeto\Business\obj\Debug\Business.pdb
